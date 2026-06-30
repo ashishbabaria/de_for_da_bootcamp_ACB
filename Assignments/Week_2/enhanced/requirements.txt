@@ -1,0 +1,12 @@
+# This pipeline uses only the Python standard library.
+# No external packages required - the file is here to demonstrate the habit.
+#
+# When the pipeline grows real dependencies, pin them like this so every
+# environment installs the same versions:
+#
+#   requests==2.32.3
+#   pandas==2.2.2
+#   pyyaml==6.0.2
+#
+# Then install with:
+#   pip install -r requirements.txt
