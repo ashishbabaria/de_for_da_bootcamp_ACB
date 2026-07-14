@@ -1,0 +1,10 @@
+[
+  {"title": "The Pragmatic Programmer", "author_name": ["Andrew Hunt", "David Thomas"], "first_publish_year": 1999, "ratings_average": 4.3, "edition_count": 12},
+  {"title": "Clean Code", "author_name": ["Robert C. Martin"], "first_publish_year": 2008, "ratings_average": 4.1, "edition_count": 9},
+  {"title": "Designing Data-Intensive Applications", "author_name": ["Martin Kleppmann"], "first_publish_year": 2015, "ratings_average": 4.6, "edition_count": 7},
+  {"title": "Python Crash Course", "author_name": ["Eric Matthes"], "first_publish_year": 2015, "ratings_average": 4.2, "edition_count": 6},
+  {"title": "Fluent Python", "author_name": ["Luciano Ramalho"], "first_publish_year": 2015, "ratings_average": 4.5, "edition_count": 5},
+  {"title": "The Mythical Man-Month", "author_name": ["Frederick P. Brooks Jr."], "first_publish_year": 1975, "ratings_average": 4.0, "edition_count": 15},
+  {"title": "Refactoring", "author_name": ["Martin Fowler"], "first_publish_year": 1999, "ratings_average": 4.2, "edition_count": 8},
+  {"title": "Introduction to Algorithms", "author_name": ["Thomas H. Cormen"], "first_publish_year": 1990, "ratings_average": 4.4, "edition_count": 11}
+]
